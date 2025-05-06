@@ -10,7 +10,7 @@
 
 
 # CONTRIBUTIONS :
-(update your past/future contributions below)
-EDA, Data preprocessing, Feature Enginnering, Random Forest Model, MLP model - Elmir
-Introduction, kNN model, XGBoost model - Elvina
-Decision Tree model, SVR model - Kaja
+\n(update your past/future contributions below)
+\nEDA, Data preprocessing, Feature Enginnering, Random Forest Model, MLP model - Elmir
+\nIntroduction, kNN model, XGBoost model - Elvina
+\nDecision Tree model, SVR model - Kaja
