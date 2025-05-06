@@ -2,10 +2,9 @@
 
 
 ✔ TO DO LIST: 
-1. commit preprocessing script (Elmir)
-2. commit your models script
-3. complile results from each model into one script and create graphs
-4. commit your models evalutations text for the article 
+1. commit your models script
+2. complile results from each model into one script and create graphs
+3. commit your models evalutations text for the article 
 
 
 
