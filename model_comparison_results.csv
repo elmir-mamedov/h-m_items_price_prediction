@@ -1,0 +1,7 @@
+Model,MSE,RMSE,R^2,Best Parameters
+SVR,0.039764887773229333,0.1994113531703482,0.8928421806351969,"{'reg__C': 10, 'reg__epsilon': 0.1, 'reg__kernel': 'rbf'}"
+Decision Tree,0.08756670318481297,0.2959167166363079,0.7640265699789884,"{'reg__max_depth': 15, 'reg__min_samples_split': 5}"
+MLP,0.034166240975746574,0.1848411236055077,0.9079293295197434,"{'reg__activation': 'relu', 'reg__hidden_layer_sizes': 64, 'reg__learning_rate_init': 0.001, 'reg__solver': 'adam'}"
+Random Forest,0.04441123263885113,0.21073972724394213,0.8803212806226972,{'reg__n_estimators': 20}
+kNN,0.059579060600973774,0.24408822298704577,0.8394472467717636,"{'reg__algorithm': 'auto', 'reg__n_neighbors': 3, 'reg__weights': 'distance'}"
+XGBoost,0.03713415979292211,0.1927022568443922,0.899931426688633,"{'reg__learning_rate': 0.3, 'reg__max_depth': 7, 'reg__n_estimators': 200, 'reg__subsample': 1.0}"
