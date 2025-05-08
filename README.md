@@ -12,4 +12,4 @@
 *(update your past/future contributions below)* <br />
 Data preprocessing, Feature Enginnering, Random Forest Model, MLP model - Elmir <br />
 Introduction, kNN model, XGBoost model - Elvina <br />
-Decision Tree model, SVR model, compile results and compare models with visualization (future) - Kaja <br />
+Decision Tree model, SVR model, compile results and compare models with visualization, vectorization of "details" column - Kaja <br />
