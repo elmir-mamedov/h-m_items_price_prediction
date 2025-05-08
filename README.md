@@ -2,9 +2,9 @@
 
 
 ✔ TO DO LIST: 
-1. commit your models script
+1. upload your model grid_search script and best grid_search params in json file
 2. complile results from each model into one script and create graphs
-3. commit your models evalutations text for the article 
+
 
 
 
