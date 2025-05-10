@@ -1,0 +1,7 @@
+{
+    "kNN": {
+        "algorithm": "auto",
+        "n_neighbors": 3,
+        "weights": "distance"
+    }
+}
