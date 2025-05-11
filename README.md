@@ -3,6 +3,7 @@
 
 ✔ TO DO LIST: 
 1. finish the article
+2. transfer the article to LaTeX
 
 
 
